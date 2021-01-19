@@ -1,4 +1,4 @@
-## Rick & Morty fetcher with React Query 3
+## Rick & Morty API fetch using React Query
 
 ### Resources
 
