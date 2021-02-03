@@ -1,5 +1,7 @@
 ## Rick & Morty API fetch using React Query
 
+https://rick-morty-react-query.vercel.app/
+
 ### Resources
 
 - React 17
